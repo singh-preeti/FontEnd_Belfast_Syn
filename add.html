@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Addition</title>
+        <script>
+            function add()
+            {
+                var a = document.getElementById("t1").value;
+                var b = document.getElementById("t2").value;
+                
+                var c = parseInt(a);
+                var d = parseInt(b);
+                var e = c+d;
+
+                document.getElementById("p1").innerHTML= "addtion of two numbers is"+e;
+            }
+        </script>
+        <style>
+            .operator{
+                font-style: italic;
+            }
+            .add{
+                color: blue;
+            }
+        </style>
+    </head>
+    <body class="add">
+        <h2 class="operator">Arithmetic Operators</h2>
+        Enter Fisrt Number <input type="text" id="t1"><br><br>
+        Enter Second Number <input type="text" id="t2">
+        <p id="p1"></p>
+        <input type="button" id="b1" value="Add" onclick="add()" >
+    </body>
+</html>
