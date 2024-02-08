@@ -12,3 +12,6 @@ https://dotnettutorials.net/lesson/display-property-in-css/
 https://dotnettutorials.net/lesson/important-property-in-css/
 --------------------------------------Basic java script-----------------------------------------------
 https://dotnettutorials.net/course/javascript-tutorial-for-beginners-and-professionals/
+------------------------------------Javascript nonprimitive datatypes----------------------------------
+https://www.programiz.com/javascript/object
+https://www.freecodecamp.org/news/javascript-standard-objects-arrays/
