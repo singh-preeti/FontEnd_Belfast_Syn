@@ -10,3 +10,5 @@ https://dotnettutorials.net/lesson/height-and-width-in-css/
 https://dotnettutorials.net/lesson/display-property-in-css/
 ---------------------------------------------Important selectors---------------------------------------
 https://dotnettutorials.net/lesson/important-property-in-css/
+--------------------------------------Basic java script-----------------------------------------------
+https://dotnettutorials.net/course/javascript-tutorial-for-beginners-and-professionals/
