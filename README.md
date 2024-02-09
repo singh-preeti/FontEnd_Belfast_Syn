@@ -15,3 +15,5 @@ https://dotnettutorials.net/course/javascript-tutorial-for-beginners-and-profess
 ------------------------------------Javascript nonprimitive datatypes----------------------------------
 https://www.programiz.com/javascript/object
 https://www.freecodecamp.org/news/javascript-standard-objects-arrays/
+----------------------------------------Loop in Js-----------------------------------------------------
+https://dotnettutorials.net/lesson/javascript-loop/
