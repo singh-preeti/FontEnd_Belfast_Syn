@@ -1,0 +1,87 @@
+Primitive Data Types: 
+String ,Number, Boolean, Undefined,Null
+Non-Primitive Data Types:
+Object
+Array
+RegExp
+
+Operators:
+ Arithmetic
+ Comparison / Relational -> == is equal to,=== equal and of the same type
+ !=,!==,<=,<,>,>=
+ Bitwise -> & (10==20 & 20==30) = false
+ Logical
+ Assignment
+ Special Operators -> delete , in , instanceof, new , typeof, void , ?:
+ if(age>18)
+   document.write("can vote");
+ else
+   document.write("Cant vote");
+
+  age>18 ? can vote : can not vote
+
+
+js array is an object that represents the similar type of data
+3 ways to construct array in js:
+ 1.By array litral
+ 2.By creating instance of the array (new keywords)
+ 3.By using an array constuctor.
+
+If condition -> one condition (if its true then it will print  else nothing will get printed)
+if else -> two statements (if condition is true if part get executed else the else part)
+else if ladder -> more than two statements there will be only one condition true.
+nested if -> condition inside the other condition
+
+marks>40 = pass 
+marks>40 = pass else fail
+marks>40 && marks<60  passed 
+marks>60 && marks<75 Fisrt Div
+marks>40 
+ (java >50) = passed else fail
+
+
+percentage =  ( totalgrades / 400 ) *  100 ;
+
+
+ 
+ Loops-> foreach
+
+
+1.Write a function which Calculate the sum of multiples of 3 and 5 for a given limit
+2.Write a function which checks and count the truthy values from an array
+3.Write a function which checks number till given input/parameter is odd or even
+4.Write a function which checks given input/parameter
+  1.If input/parameter is below speedlimit of 70 print => 'Good Safe Driving'
+  2.If input/parameter is above speedlimit of 70, every 5 kilometers is Penalty Point, print => 'Speed Limit Crossed by Penalty Point' + Point 
+  3.If Driver gets more than 10 penalty points ie. above the speed limit 120, print => 'License Suspended'
+
+5.Write a function which checks given input/parameter:
+   1.If input/parameter is divisible by 3 print => Fizz
+   2.If input/parameter is divisible by 5 print => Buzz
+   3.If input/parameter is divisible by 3 or 5 print => FizzBuzz
+   4.If input/parameter is NOT divisible by 3 or 5 print => given Input Number/Value
+   5.If input/parameter is other than Number/Value print => 'Nan - Not a Number! Please Input        Number'
+6.Write a function which checks given width and height, returns true (landscape) if width is greater than height and vice versa
+7.Write function to check object equality.
+ i.e. function Student(name, age, rank, country) {
+  this.name = name;
+  this.age = age;
+  this.rank = rank;
+  this.country = country;
+}
+8.Create a function which returns the maximum ie. largest number from an array
+9.Create a method named 'includes' which checks an element exists in an array
+10.Write a function which show or print Sum of Arguments passed as an Array
+
+
+
+
+
+
+
+
+
+
+
+
+
