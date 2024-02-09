@@ -17,3 +17,6 @@ https://www.programiz.com/javascript/object
 https://www.freecodecamp.org/news/javascript-standard-objects-arrays/
 ----------------------------------------Loop in Js-----------------------------------------------------
 https://dotnettutorials.net/lesson/javascript-loop/
+https://www.w3schools.com/js/js_loop_for.asp
+https://www.w3schools.com/js/js_loop_forin.asp
+https://www.w3schools.com/js/js_loop_forof.asp
