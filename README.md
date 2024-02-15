@@ -30,3 +30,10 @@ https://dotnettutorials.net/lesson/javascript-closures/
 
 ------------------------------------Component lifecycle in Reactjs----------------------------------
 https://www.freecodecamp.org/news/how-to-understand-a-components-lifecycle-methods-in-reactjs-e1a609840630/
+-------------------------------------Axios in react--------------------------------------------------
+https://www.geeksforgeeks.org/axios-in-react-a-guide-for-beginners/
+------------------------------------Template litral----------------------------------------------------
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
+-----------------------------------React forms--------------------------------------------------------
+https://www.geeksforgeeks.org/reactjs-forms/
+
