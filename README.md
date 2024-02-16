@@ -36,4 +36,9 @@ https://www.geeksforgeeks.org/axios-in-react-a-guide-for-beginners/
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
 -----------------------------------React forms--------------------------------------------------------
 https://www.geeksforgeeks.org/reactjs-forms/
+-------------------------------------React Router-----------------------------------------------------
+https://techimperialist.com/react/a-simple-introduction-to-react-router-dom-v6/
+What is browser router,Link,Path,Routes,Rout
+-------------------------------------React Hooks------------------------------------------------------
+https://www.w3schools.com/react/react_hooks.asp
 
