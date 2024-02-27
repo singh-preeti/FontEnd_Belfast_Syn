@@ -1,0 +1,15 @@
+1. Link for azure storage
+https://learn.microsoft.com/en-us/azure/storage/common/storage-introduction?toc=%2Fazure%2Fstorage%2Fblobs%2Ftoc.json&bc=%2Fazure%2Fstorage%2Fblobs%2Fbreadcrumb%2Ftoc.json
+2. Queue
+https://learn.microsoft.com/en-us/azure/storage/queues/storage-quickstart-queues-portal
+3. Table
+https://learn.microsoft.com/en-us/azure/storage/tables/table-storage-quickstart-portal
+4. File share
+  step 1:  
+https://learn.microsoft.com/en-us/azure/storage/files/storage-how-to-create-file-share?tabs=azure-portal
+step 2:  for mounting file share
+https://learn.microsoft.com/en-us/azure/storage/files/storage-how-to-use-files-windows
+
+
+
+https://www.sqlshack.com/different-azure-storage-types-file-blob-queue-table/
