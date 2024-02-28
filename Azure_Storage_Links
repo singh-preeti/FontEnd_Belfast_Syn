@@ -13,3 +13,14 @@ https://learn.microsoft.com/en-us/azure/storage/files/storage-how-to-use-files-w
 
 
 https://www.sqlshack.com/different-azure-storage-types-file-blob-queue-table/
+
+
+
+Day 3: Cloud Computing with Azure
+ Topic: Azure Databases
+1. Differences between postgre and mysql
+https://www.guru99.com/postgresql-vs-mysql-difference.html
+2.  Single database,logical servers,Elastic pools
+https://learn.microsoft.com/en-us/azure/azure-sql/database/single-database-overview?view=azuresql
+3. Working with POstGres in Azure
+https://learn.microsoft.com/en-us/azure/postgresql/single-server/tutorial-design-database-using-azure-portal
