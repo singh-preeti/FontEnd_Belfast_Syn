@@ -46,3 +46,7 @@ https://www.freecodecamp.org/news/context-api-in-react/
 -------------------------------------Node.js----------------------------------------------------------
 https://www.w3schools.com/nodejs/default.asp
 https://www.geeksforgeeks.org/nodejs/
+
+
+------------------------------------DevOps------------------------------------------------------------
+https://orangematter.solarwinds.com/2022/03/21/what-is-devops/
