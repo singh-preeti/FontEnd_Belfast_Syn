@@ -50,3 +50,6 @@ https://www.geeksforgeeks.org/nodejs/
 
 ------------------------------------DevOps------------------------------------------------------------
 https://orangematter.solarwinds.com/2022/03/21/what-is-devops/
+------------------------------------Agile-------------------------------------------------------------
+https://www.cprime.com/resources/what-is-agile-what-is-scrum/
+https://zenkit.com/en/blog/agile-methodology-an-overview/
